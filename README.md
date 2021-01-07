@@ -4,4 +4,4 @@
 - Treinar conceitos básicos de HTML5 e CSS3
 
 ### Implementação
--TecBlog
+-[TecBlog](https://layravbf.github.io/TecBlog/)
